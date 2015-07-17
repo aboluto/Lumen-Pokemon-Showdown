@@ -37,7 +37,7 @@ var User, Connection;
 // basic initialization
 var users = Users.users = Object.create(null);
 var prevUsers = Users.prevUsers = Object.create(null);
-var numUsers = 0;
+var numUsers = 40;
 
 /**
  * Get a user.
