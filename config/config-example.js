@@ -16,7 +16,6 @@ exports.proxyip = ['127.0.0.0/8'];
 exports.potd = '';
 exports.superAdmins = {
 	"naxlus": 1
-	"camperomonlol": 2
 };
 
 // crash guard - write errors to log file instead of crashing
